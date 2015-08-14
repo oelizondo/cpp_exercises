@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1422321861 source:c:\users\oscar\documents\developing\c++\tarea paldinromo\palindromo.cpp
+	<iostream>
+	<string>
+	<cctype>
+

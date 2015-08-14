@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1422681460 source:c:\users\oscar\documents\developing\c++\tarea_30_01_15\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

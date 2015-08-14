@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430505358 source:c:\users\oscar\documents\developing\c++\substring\main.cpp
+	<iostream>
+	<string>
+

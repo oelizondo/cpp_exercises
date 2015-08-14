@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1422319172 source:c:\users\oscar\documents\developing\c++\palindromo\palindromo.cpp
+	<iostream>
+	<string>
+	<cctype>
+
+1430177430 source:c:\users\oscar\documents\developing\c++\palindromo\main.cpp
+	<iostream>
+	<string>
+

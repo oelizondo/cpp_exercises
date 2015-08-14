@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1429252212 source:c:\users\oscar\documents\developing\c++\sobrecargaoperadores\main.cpp
+	<iostream>
+	<string>
+	"persona.h"
+	"estudiante.h"
+	"complejo.h"
+
+1429241803 c:\users\oscar\documents\developing\c++\sobrecargaoperadores\persona.h
+
+1429244896 c:\users\oscar\documents\developing\c++\sobrecargaoperadores\estudiante.h
+	"persona.h"
+
+1429252176 c:\users\oscar\documents\developing\c++\sobrecargaoperadores\complejo.h
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1429059170 source:c:\users\oscar\documents\developing\c++\clase abstracta\main.cpp
+	<iostream>
+	<string>
+	"CtaBan.h"
+	"CtaAhorro.h"
+	"CtaInv.h"
+
+1429059273 c:\users\oscar\documents\developing\c++\clase abstracta\ctaban.h
+
+1429059281 c:\users\oscar\documents\developing\c++\clase abstracta\ctaahorro.h
+
+1429059265 c:\users\oscar\documents\developing\c++\clase abstracta\ctainv.h
+

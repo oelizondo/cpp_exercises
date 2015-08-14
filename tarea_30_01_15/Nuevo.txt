@@ -1,0 +1,11 @@
+.a Mary
+.a Pin Pon
+.b Tiene
+.b Es
+.c Un
+.c Una
+.d Corderito
+.d Muñeca
+2.e Vestida
+2.f De
+2.g Azul
